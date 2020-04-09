@@ -7,3 +7,5 @@ app_name= 'rango'
 urlpatterns =[
     url('', views.index, name='index'),
 ]
+
+#bs chthy
