@@ -10,3 +10,4 @@ urlpatterns =[
 
 #bs chthy
 yobeeee
+yobee marra thankia
