@@ -8,4 +8,4 @@ urlpatterns =[
     url('', views.index, name='index'),
 ]
 
-#bs chthy
+dodo :P
